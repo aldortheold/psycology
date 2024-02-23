@@ -139,6 +139,9 @@ h2 {
         float: inherit;
         margin: 20px 0 -5px 0;
     }
+    #berenSong {
+        height: 300px;
+    }
     .extraContents {
         width: 90%;
     }
